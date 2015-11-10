@@ -1,0 +1,6 @@
+c:\users\bryant\documents\visual studio 2013\Projects\BryantVPathTriple\BryantVPathTriple\bin\Debug\BryantVPathTriple.exe.config
+c:\users\bryant\documents\visual studio 2013\Projects\BryantVPathTriple\BryantVPathTriple\obj\Debug\BryantVPathTriple.csprojResolveAssemblyReference.cache
+c:\users\bryant\documents\visual studio 2013\Projects\BryantVPathTriple\BryantVPathTriple\bin\Debug\BryantVPathTriple.exe
+c:\users\bryant\documents\visual studio 2013\Projects\BryantVPathTriple\BryantVPathTriple\bin\Debug\BryantVPathTriple.pdb
+c:\users\bryant\documents\visual studio 2013\Projects\BryantVPathTriple\BryantVPathTriple\obj\Debug\BryantVPathTriple.exe
+c:\users\bryant\documents\visual studio 2013\Projects\BryantVPathTriple\BryantVPathTriple\obj\Debug\BryantVPathTriple.pdb
